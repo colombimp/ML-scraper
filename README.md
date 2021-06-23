@@ -12,4 +12,5 @@ The program takes the models as input and lists all publications for those model
 - Price
 - Zone
 
-More details in my [blog](https://colombimp.wordpress.com/).
+
+[Blog](https://colombimp.wordpress.com/).
